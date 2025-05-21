@@ -69,7 +69,7 @@ const InterviewCompleted = () => {
                 Next Steps <ChevronRight className="ml-1 h-4 w-4 text-green-400" />
               </h3>
               <p className="text-gray-600 text-sm mt-1">
-                Expect an email update - check your spam folder if you don't see it.
+                Expect an email update - check your spam folder if you don't see it..
               </p>
             </div>
           </div>
