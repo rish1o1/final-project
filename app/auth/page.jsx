@@ -10,7 +10,7 @@ export default function Login() {
     const { error } = await supabase.auth.signInWithOAuth({
         provider: 'google',
         options: {
-            redirectTo: `https://ai-recruiter-b6ccqidhn-sujeeths-projects-e1b16b86.vercel.app`
+            redirectTo: `final-project-evbp-git-main-rishabhkishore10-gmailcoms-projects.vercel.app`
         }
     })
     if (error) console.error(error.message)
