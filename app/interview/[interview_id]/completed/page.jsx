@@ -83,7 +83,7 @@ const InterviewCompleted = () => {
             <div className="h-1.5 w-1.5 bg-green-400 rounded-full animate-pulse delay-200"></div>
           </div>
           <p className="text-gray-700 font-medium">
-            You've completed all steps! This window can now be closed.
+            You've completed all steps! This window can now be closed
           </p>
           <p className="text-sm text-gray-500 mt-2">
             Any further Questions ? Contact{' '}
